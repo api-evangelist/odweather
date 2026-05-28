@@ -1,0 +1,32 @@
+aid: odweather
+name: ODWeather
+description: "Weather and weather webcams"
+url: http://api.oceandrivers.com/static/docs.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Weather"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Weather
+  - Public APIs
+apis:
+  - name: ODWeather
+    description: "Weather and weather webcams"
+    humanURL: http://api.oceandrivers.com/static/docs.html
+    baseURL: http://api.oceandrivers.com/static/docs.html
+    tags:
+      - Weather
+    properties:
+      - type: Documentation
+        url: http://api.oceandrivers.com/static/docs.html
+common:
+  - type: Website
+    url: http://api.oceandrivers.com/static/docs.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
