@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://api.oceandrivers.com/static/docs.html
 common:
+  - type: DomainSecurity
+    url: security/odweather-domain-security.yml
   - type: Website
     url: http://api.oceandrivers.com/static/docs.html
   - type: PublicAPIsListing
