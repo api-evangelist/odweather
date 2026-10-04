@@ -39,7 +39,6 @@ apis:
   - name: ODWeather
     description: "Weather and weather webcams"
     humanURL: http://api.oceandrivers.com/static/docs.html
-    baseURL: http://api.oceandrivers.com/static/docs.html
     tags:
       - Weather
     properties:
